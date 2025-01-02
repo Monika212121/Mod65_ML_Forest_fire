@@ -12,7 +12,7 @@ It uses Regression model for Output prediction.
     git add .
     git commit -m "first commit in ML"
     git config --global user.email "mgadewar12@gmail.com"
-    git config --global user.name "M,onika212121"
+    git config --global user.name "Monika212121"
     git commit -m "first commit in ML"
     git branch -M main
     git branch
